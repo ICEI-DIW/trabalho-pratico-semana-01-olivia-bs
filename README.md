@@ -3,11 +3,11 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Olívia Barroso Silva
+Matricula: 1581549
 
 ## Tela de inspeção com navegador
-
+<img src="Network.jpg" alt="Ferramentas de Desenvolvedor no Google Translate">
 
 ## Tela de projeto no Replit
-
+<img src="Replit.jpg" alt="Visualização de Página no Replit">
